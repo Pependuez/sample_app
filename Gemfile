@@ -12,7 +12,8 @@ group :development, :test do
   gem 'guard-rspec'
   gem 'spork-rails'
   gem 'guard-spork' 
-  gem 'childprocess' 
+  gem 'childprocess'
+  gem 'factory_girl_rails'
 end
 
 group :test do
